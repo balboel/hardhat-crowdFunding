@@ -1,0 +1,41 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "D:\\belajar\\udemy\\kickstart-boilerplate\\kickstart\\ethereum\\contracts\\Campaign.sol": {
+      "lastModificationDate": 1695130824094,
+      "contentHash": "920298d7ab5a3ebf530311e3f79b4bb2",
+      "sourceName": "ethereum/contracts/Campaign.sol",
+      "solcConfig": {
+        "version": "0.8.19",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.2"
+      ],
+      "artifacts": [
+        "Campaign",
+        "CampaignFactory"
+      ]
+    }
+  }
+}
